@@ -1,2 +1,16 @@
-# viz
-Resources for data visualisation exercises
+# Resources for data visualisation exercises
+
+You can [download data on donations (as well as loans, spending and other information) to political parties on the Electoral Commission website](http://search.electoralcommission.org.uk).
+
+If you just click 'search' and scroll to the bottom where individual donations are shown in a table, there should be an option to **Export Results** as a CSV.
+
+This data is good to use to explore data visualisation because it allows us to use a range of different charts for different purposes.
+
+In this repo you can find a CSV of data downloaded in June 2019. There is also an XLSX file which shows that data being analysed in different ways to generate data for different charts. For example:
+
+* Pivot [table] total donations by party - the top 5 are then used for a pie chart (composition)
+* Pivot totals by non-party - the top 10 are used for a bar chart (comparison)
+* Extract month/year - we need to do this to show distribution on a histogram, or change over time in a line chart, because the data only includes specific dates
+* Pivot totals by month - to create a histogram showing distribution of donations over a typical year
+* Pivot stacked bar: we use a field for columns but filter to just 2 of those that can be used to show both comparison (between bars) and composition (within the bar)
+* Pivot year and party: to create a line chart showing change over time
