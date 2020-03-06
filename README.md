@@ -28,3 +28,5 @@ Open Refine is useful for converting data from XML or JSON format, combining dat
 You can also [create point maps in Flourish](https://github.com/paulbradshaw/mapping/blob/master/flourishpoints.md), but it tends to struggle with too many points.
 
 Flourish does have a [timelapse map of points](https://github.com/paulbradshaw/mapping/blob/master/flourishpointstime.md), too.
+
+You can create a cartogram election map in Datawrapper - [details here](https://github.com/paulbradshaw/mapping/blob/master/datawrapperelection.md)
