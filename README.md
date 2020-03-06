@@ -23,9 +23,11 @@ Open Refine is useful for converting data from XML or JSON format, combining dat
 
 ## Mapping points (Datawrapper)
 
-[This tutorial explains how to create a map of points in Datawrapper](https://github.com/paulbradshaw/mapping/blob/master/datawrapperpoints.md). 
+Here's [how to create point maps in Flourish](https://github.com/paulbradshaw/mapping/blob/master/flourishpoints.md).
 
-You can also [create point maps in Flourish](https://github.com/paulbradshaw/mapping/blob/master/flourishpoints.md), but it tends to struggle with too many points.
+[This tutorial explains how to create a map of points in Datawrapper](https://github.com/paulbradshaw/mapping/blob/master/datawrapperpoints.md). However, its zoom level doesn't go very far so it's only suitable for national-level stories.
+
+Here's [how to make choropleth maps in Flourish](https://github.com/paulbradshaw/mapping/blob/master/shapesflourish.md)
 
 Flourish does have a [timelapse map of points](https://github.com/paulbradshaw/mapping/blob/master/flourishpointstime.md), too.
 
