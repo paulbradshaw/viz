@@ -32,3 +32,5 @@ Here's [how to make choropleth maps in Flourish](https://github.com/paulbradshaw
 Flourish does have a [timelapse map of points](https://github.com/paulbradshaw/mapping/blob/master/flourishpointstime.md), too.
 
 You can create a cartogram election map in Datawrapper - [details here](https://github.com/paulbradshaw/mapping/blob/master/datawrapperelection.md)
+
+If you want to show the relative size of something compared to an area [there's this tool](https://blog.datawrapper.de/weekly-comparing-areas-on-maps/)
