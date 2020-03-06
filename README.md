@@ -20,3 +20,11 @@ In this repo you can find a CSV of data downloaded in June 2019. There is also a
 Open Refine is useful for converting data from XML or JSON format, combining data, and cleaning it. 
 
 [This tutorial explains how to convert, combine and clean food hygiene data so that it can be mapped](https://github.com/paulbradshaw/viz/blob/master/cleaningformapping.md)
+
+## Mapping points (Datawrapper)
+
+[This tutorial explains how to create a map of points in Datawrapper](https://github.com/paulbradshaw/mapping/blob/master/datawrapperpoints.md). 
+
+You can also [create point maps in Flourish](https://github.com/paulbradshaw/mapping/blob/master/flourishpoints.md), but it tends to struggle with too many points.
+
+Flourish does have a [timelapse map of points](https://github.com/paulbradshaw/mapping/blob/master/flourishpointstime.md), too.
