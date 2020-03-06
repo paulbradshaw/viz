@@ -14,3 +14,9 @@ In this repo you can find a CSV of data downloaded in June 2019. There is also a
 * Pivot totals by month - to create a histogram showing distribution of donations over a typical year
 * Pivot stacked bar: we use a field for columns but filter to just 2 of those that can be used to show both comparison (between bars) and composition (within the bar)
 * Pivot year and party: to create a line chart showing change over time
+
+## Cleaning data for mapping
+
+Open Refine is useful for converting data from XML or JSON format, combining data, and cleaning it. 
+
+[This tutorial explains how to convert, combine and clean food hygiene data so that it can be mapped](https://github.com/paulbradshaw/viz/blob/master/cleaningformapping.md)
