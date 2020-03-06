@@ -17,6 +17,16 @@ You can download and **combine** multiple XML files by adding more URLs (in sepa
 
 For a JSON example look for a petition of interest on the [UK Government's petitions website](https://petition.parliament.uk/petitions). Click on the petition page. At the bottom of each petition page should be a link to *Get petition data (json format)* - you can copy the URL for that page and use it to import the data into Open Refine in the same way.
 
+### Converting XML to CSV if Open Refine won't connect to the web
+
+Depending on your setup, Open Refine may not be able to connect properly to the web to fetch the files. In that case you can download the files to your computer (try the Firefox extension [DownThemAll](https://addons.mozilla.org/en-GB/firefox/addon/downthemall/)), and then upload them all to a new Refine project from there. 
+
+### Converting XML to CSV if Open Refine won't cooperate
+
+If the above doesn't work, you can also use online XML to CSV converters: [this one](http://convertcsv.com/xml-to-csv.htm) handles the FSA files well and will fetch from a URL too. You can then download a CSV version of the XML data, and combine those in Refine. 
+
+The disadvantage of this approach is that you will have to convert each file separately, whereas downloading all the files locally and using Open Refine means you can convert and combine at the same time. 
+
 ## 'Clustering': fixing misspellings of the same thing
 
 Food hygiene data is a particularly good example to demonstrate another feature of Open Refine.
